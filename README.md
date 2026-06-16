@@ -4,6 +4,9 @@ An AI-powered web app that analyses the sentiment of live news headlines for any
 
 Live demo: https://company-news-sentiment-analyser.streamlit.app/
 
+<img width="1400" height="642" alt="cnsa screenshot" src="https://github.com/user-attachments/assets/8e415771-9b6d-44ae-9b66-fd62d1794599" />
+
+
 ## What it does
 - Fetches recent news headlines for any company using the NewsAPI
 - Runs each headline through **FinBERT**, an AI model specifically trained on financial text
